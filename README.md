@@ -4,7 +4,8 @@
 <img style = "margin-top: 30px;" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="130" align="right"></h3>
   - Atualmente estou cursando análise e desenvolvimento de sistemas e atuando como Desenvolvedor Full Stack (Estágiario) 📚💻 
   -  O talento vence jogos, mas só o trabalho em equipe ganha campeonatos. - *Michael Jordan*
-  - ⚒️ Linguagens de Programação
+  - Linguagens de Programação: ⚒️👇🏻
+## 
  <div style="display: inline_block">
 <img align="center" alt="C#" height="45" width="45" style="margin-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt=".NET" height="45" width="45" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
