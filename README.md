@@ -5,11 +5,12 @@
   - Atualmente estou cursando análise e desenvolvimento de sistemas 📚💻 
   -  O talento vence jogos, mas só o trabalho em equipe ganha campeonatos. - *Michael Jordan*
   - ⚒️ Linguagens de Programação
- <div>
-<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <div style="display: inline_block">
+<img align="center" alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt=".NET" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+<img align="center" alt="SQL Server" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+<img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
 </div>
 
