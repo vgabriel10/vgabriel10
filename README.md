@@ -6,11 +6,11 @@
   -  O talento vence jogos, mas só o trabalho em equipe ganha campeonatos. - *Michael Jordan*
   - ⚒️ Linguagens de Programação
  <div style="display: inline_block">
-<img align="center" alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt=".NET" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-<img align="center" alt="SQL Server" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="C#" height="45" width="45" style="margin-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt=".NET" height="45" width="45" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+<img align="center" alt="SQL Server" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+<img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
 </div>
 
