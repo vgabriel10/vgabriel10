@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&vCenter=true&lines=Hello,My+name+is+Vitor%20Gabriel%20%F0%9F%91%8B)
 
 <img style = "margin-top: 30px;" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="130" align="right"></h3>
-  - Atualmente estou cursando análise e desenvolvimento de sistemas e atuando como Desenvolvedor Back End (Júnior) 📚💻 
+  - Sou formado em análise e desenvolvimento de sistemas e atualmente estou atuando como Desenvolvedor Back End (Júnior) 📚💻 
   -  O talento vence jogos, mas só o trabalho em equipe ganha campeonatos. - *Michael Jordan*
   - Linguagens de Programação: ⚒️👇🏻
 ## 
